@@ -1,0 +1,28 @@
+.dashboard_box {
+    background-color: #fff;
+    border-radius: 16px;
+    .groundfloor_btn {
+        padding: 0.4rem 2.4rem;
+        margin-right: 2rem;
+        margin-bottom: 1rem;
+        font-size: 1.1rem;
+    }
+    .groundfloor_btn_first{
+        padding: 0.4rem 2.4rem;
+        margin-right: 2rem;
+        margin-bottom: 1rem;
+        font-size: 1.1rem;
+        color: #000;
+        background-color: #fff;
+        box-shadow: 1px 1px 10px rgb(184, 184, 184);
+    }
+    .groundfloor_btn_second{
+        padding: 0.4rem 2.4rem;
+        margin-right: 2rem;
+        margin-bottom: 1rem;
+        font-size: 1.1rem;
+        color: #000;
+        background-color: rgb(251, 225, 25);
+        box-shadow: 1px 1px 10px rgb(184, 184, 184);
+    }
+}
